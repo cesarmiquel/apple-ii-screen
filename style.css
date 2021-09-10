@@ -1,0 +1,29 @@
+body {
+    background: black;
+    zoom:75%;
+}
+.row {
+    max-width: 1120px;
+    min-width: 1120px;
+    min-height: 32px;
+}
+
+.ch {
+    min-width: 28px;
+    min-height: 32px;
+    float: left;
+}
+
+.ch-00 { background: url(chars/char000.png) no-repeat; }
+.ch-01 { background: url(chars/char001.png) no-repeat; }
+.ch-02 { background: url(chars/char002.png) no-repeat; }
+.ch-03 { background: url(chars/char003.png) no-repeat; }
+.ch-04 { background: url(chars/char004.png) no-repeat; }
+.ch-05 { background: url(chars/char005.png) no-repeat; }
+.ch-05 { background: url(chars/char006.png) no-repeat; }
+.ch-06 { background: url(chars/char007.png) no-repeat; }
+.ch-07 { background: url(chars/char008.png) no-repeat; }
+.ch-08 { background: url(chars/char009.png) no-repeat; }
+.ch-09 { background: url(chars/char010.png) no-repeat; }
+.ch-0a { background: url(chars/char011.png) no-repeat; }
+.ch-0b { background: url(chars/char012.png) no-repeat; }
